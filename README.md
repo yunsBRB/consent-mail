@@ -38,4 +38,4 @@ python3 scripts/demo.py
 - [API and configuration](docs/api.md)
 - [Next steps](docs/roadmap.md)
 
-The automated suite uses H2 in PostgreSQL mode. PostgreSQL setup is included; it is a separate integration check.
+The automated suite uses H2 in PostgreSQL mode. GitHub Actions also exercises the authenticated workflow against PostgreSQL 17.
