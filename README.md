@@ -39,3 +39,10 @@ python3 scripts/demo.py
 - [Next steps](docs/roadmap.md)
 
 The automated suite uses H2 in PostgreSQL mode. GitHub Actions also exercises the authenticated workflow against PostgreSQL 17.
+
+## Setup
+
+1. Clone the repository
+2. Install dependencies
+3. Configure the database
+4. Run the application
