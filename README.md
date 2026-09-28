@@ -46,3 +46,10 @@ The automated suite uses H2 in PostgreSQL mode. GitHub Actions also exercises th
 2. Install dependencies
 3. Configure the database
 4. Run the application
+
+## Project structure
+
+- `src/main/java` — application source code
+- `src/main/resources` — configuration and resources
+- `docs` — project documentation
+- `scripts` — helper scripts
